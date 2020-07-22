@@ -1,3 +1,5 @@
+This code is associated with the paper from Heger et al., "The genetic factors of bilaterian evolution". eLife, 2020. http://doi.org/10.7554/eLife.45530
+
 # BigWenDB
 A large orthology database for identifying bilaterian-specific genes.
 
